@@ -1,0 +1,9 @@
+
+Ptypescript:S1128"/Remove this unused import of 'handlePriceShip'.(š­å§üÿÿÿÿ
+mtypescript:S101"RRename interface "iDataStore" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ºìŸ
+otypescript:S4782"NConsider removing 'undefined' type or '?' specifier, one of them is redundant.(ˆ×şûÿÿÿÿ
+otypescript:S4782"NConsider removing 'undefined' type or '?' specifier, one of them is redundant.(ş°Ôñıÿÿÿÿ
+jtypescript:S4782"NConsider removing 'undefined' type or '?' specifier, one of them is redundant.(àü‘ò
+`typescript:S1121p"?Extract the assignment of "food.quantity" from this expression.(Ê¡‰ÿÿÿÿÿ
+`typescript:S1121{"?Extract the assignment of "food.quantity" from this expression.(óÏíÀûÿÿÿÿ
+atypescript:S1121¢"?Extract the assignment of "item.quantity" from this expression.(µê…ëûÿÿÿÿ

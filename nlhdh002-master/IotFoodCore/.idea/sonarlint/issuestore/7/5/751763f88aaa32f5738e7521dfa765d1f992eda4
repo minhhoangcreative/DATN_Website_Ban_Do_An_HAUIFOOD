@@ -1,0 +1,12 @@
+
+–typescript:S5843:"TSimplify this regular expression to reduce its complexity from 37 to the 20 allowed.(¯ŸÃJ$a63b3286-004d-4547-9ffe-87bcbc62b8b6
+}typescript:S6353:";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$8427ea59-2b26-4382-be8d-1869bc731ee5
+}typescript:S6353:";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$d15a4949-2670-4714-b2a6-058a0425253d
+}typescript:S6353:";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$68a5efc9-0cbf-41d9-80e0-d373d0e0dca9
+}typescript:S6353:";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$a6da17a7-98a7-483f-bc31-7e3bdb29a104
+~typescript:S6019:"<Remove the '?' from this unnecessarily reluctant quantifier.(¯ŸÃJ$b547cfee-2dfc-49c8-ad08-7e48d31f5923
+htypescript:S6535L"!Unnecessary escape character: \[.(Æ·ûÅùÿÿÿÿJ$c6a91a11-4118-4bf3-a6d3-8de9af5dcffd
+itypescript:S6557X"'Use 'String#startsWith' method instead.(Ğ„›®J$58ed7009-ff56-4cf8-9be6-c2f866c0774b
+£typescript:S6582˜"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(îÿ™‘ÿÿÿÿÿJ$3ddbe949-12d5-4a51-afa7-32129c4a75d8
+otypescript:S6772å"'Ambiguous spacing before next element a(­ÈÎ´üÿÿÿÿJ$b91306a1-8e9c-4654-95d9-11ffe708c938
+mtypescript:S6772ë"*Ambiguous spacing after previous element a(ØÉ§ÀJ$814ded89-cdc7-4a28-996b-d28969c1d571

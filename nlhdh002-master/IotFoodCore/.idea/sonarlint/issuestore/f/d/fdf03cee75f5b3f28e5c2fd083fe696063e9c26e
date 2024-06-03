@@ -1,0 +1,16 @@
+
+–typescript:S37760"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÚĞã‹J$b3b1acb0-8828-4c32-9735-a010e793837f
+”typescript:S4325E"RThis assertion is unnecessary since it does not change the type of the expression.(ış¨´J$c6bdb165-7452-4098-888b-a7664e5f477e
+¬typescript:S6606V"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(‚îÚJ$7585a10f-b4ea-478e-bb0d-2c56e6dacf60
+¬typescript:S6606^"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(œ—‹¹J$e27b9dd9-1e80-44e2-88f8-912121c7667d
+qtypescript:S3504‚")Unexpected var, use let or const instead.(ÈŞ°•ùÿÿÿÿJ$1df60908-2292-497d-a90a-9b6304831cf4
+qtypescript:S3504ƒ")Unexpected var, use let or const instead.(Ğá“ëüÿÿÿÿJ$b63e8af6-74ab-428e-b3e8-b60e3faf39b7
+—typescript:S3776 "TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(„é J$b046d54f-c302-493c-ba76-c8e61fde9d5f
+ƒtypescript:S6854À"4<iframe> elements must have a unique title property.(ÁƒšÂşÿÿÿÿ8Çîıû1J$8f5970a9-47cc-4bc6-b556-5bc8dfdd4e47
+}typescript:S6439ç":Convert the conditional to a boolean to avoid leaked value(­°ÀõJ$98d3c46e-4a4c-46e4-8a24-8e2089da7bf0
+­typescript:S6606˜"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(ÖìêºJ$b9a9a82f-9115-482a-a825-e22954f9f196
+­typescript:S6606˜"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(ÖìêºJ$cf634230-95c4-4145-b51c-05a0b6abd1f4
+­typescript:S6606½"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(â ¢ÒJ$fae9c7b6-401f-41c0-9197-69c87a3a8dcb
+­typescript:S6606½"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(â ¢ÒJ$8260169c-651c-488d-beb8-cdfafcfb5871
+²typescript:S6606›"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(½’ŸªÿÿÿÿÿJ$3c877348-82ed-44f8-89e4-7b7ac8b668b6
+²typescript:S6606›"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(½’ŸªÿÿÿÿÿJ$320e0734-abcc-4585-9bda-be03a34f9f31

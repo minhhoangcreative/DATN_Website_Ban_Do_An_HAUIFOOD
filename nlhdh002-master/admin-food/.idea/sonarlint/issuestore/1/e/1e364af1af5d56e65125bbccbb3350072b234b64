@@ -1,0 +1,7 @@
+
+{typescript:S1854#":Remove this useless assignment to variable "quantitySold".(éƒè4J$dd239c92-ea77-46f3-8e25-f371b53ffd59
+œtypescript:S6582J"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(•¹6J$79373783-6ec8-4739-96a4-7698741281af
+wtypescript:S6853º"/A form label must be associated with a control.(¤Šò°øÿÿÿÿJ$22c04e87-07c5-46b8-9293-d52fd1b86432
+‹typescript:S6848Å"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(¯ƒúÁøÿÿÿÿJ$9f58df93-1e7d-4dad-9155-6f8411519761
+§typescript:S1082Å"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(¯ƒúÁøÿÿÿÿJ$873230ed-3171-4c87-9b84-b9150a02db38
+‰typescript:S6851ï"ÅRedundant alt attribute. Screen-readers already announce `img` tags as an image. You don\u8217t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop.(Æœ¢ÃJ$336b00c8-4c9b-4016-bc33-78856287c9fc

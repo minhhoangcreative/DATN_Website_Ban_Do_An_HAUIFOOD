@@ -1,0 +1,4 @@
+
+stypescript:S18540"1Remove this useless assignment to variable "sum".(ù≠‘ÄJ$d6b6bc9a-0a73-4d68-87b2-7c27d4d222ac
+≠typescript:S6606®"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(÷ÏÍ∫J$ee7cdfd3-a1ae-4b4c-8f09-18390ce9752e
+≠typescript:S6606®"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(÷ÏÍ∫J$2e587fe4-d946-4566-af6e-1a8ff9159847

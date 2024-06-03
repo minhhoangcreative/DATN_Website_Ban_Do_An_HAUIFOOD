@@ -1,0 +1,6 @@
+
+…typescript:S6644B">Unnecessary use of boolean literals in conditional expression.(æÕ…­ùÿÿÿÿJ$41630392-d5ab-4ebc-a5c6-c1c7d5530219
+Štypescript:S6848r"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(õ¡ÚÊùÿÿÿÿJ$714cbbf9-60e2-47ae-a7f8-ab9c6582ff98
+¦typescript:S1082r"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(õ¡ÚÊùÿÿÿÿJ$8aad41f8-4447-48d8-a654-63eda3e6ad35
+etypescript:S6479s"Do not use Array index in keys(Ê¹¹óþÿÿÿÿJ$d6f3d013-826f-437d-92a7-20869c9f40ef
+ftypescript:S6479Š"Do not use Array index in keys(ªßÙúøÿÿÿÿJ$1f8fd061-3fc6-43c6-9423-ab11e27ddb4d

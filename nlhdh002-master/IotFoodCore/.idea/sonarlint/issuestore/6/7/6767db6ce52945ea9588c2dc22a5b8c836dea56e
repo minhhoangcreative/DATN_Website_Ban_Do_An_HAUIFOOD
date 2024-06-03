@@ -1,0 +1,18 @@
+
+‚typescript:S1854)"@Remove this useless assignment to variable "setCheckUpdateUser".(Ü¼şúJ$6d1fc573-0c6a-423a-99ff-6a1b2d2b4c41
+–typescript:S5843/"TSimplify this regular expression to reduce its complexity from 37 to the 20 allowed.(¯ŸÃJ$89cfd228-6491-4c43-9363-7c61d2b8e367
+}typescript:S6353/";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$f5c424a4-df94-48c8-a6a1-b52f9653d736
+}typescript:S6353/";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$954ab2c8-cf00-41f6-a052-446af3822fd5
+}typescript:S6353/";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$58d12f83-51c4-499d-b2e9-c77fd21e0740
+}typescript:S6353/";Use concise character class syntax '\d' instead of '[0-9]'.(¯ŸÃJ$312aa143-5baf-4efa-be55-f902fd29b65f
+~typescript:S6019/"<Remove the '?' from this unnecessarily reluctant quantifier.(¯ŸÃJ$70198499-4755-4691-b1e1-4a1e01e44bdc
+htypescript:S6535>"!Unnecessary escape character: \[.(Æ·ûÅùÿÿÿÿJ$0611ccfe-fded-4ac9-84d0-74fafff82361
+œtypescript:S6582K"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(•¹6J$d58648d3-4475-4869-8906-5e42570a4617
+}typescript:S1854~"6Remove this useless assignment to variable "response".(ÂØÍ‹ùÿÿÿÿJ$86e835b7-69ad-41ff-a7d3-502db104e7f9
+~typescript:S1854¢"6Remove this useless assignment to variable "response".(©ÚÂ¿ıÿÿÿÿJ$88d50586-83f0-4bcc-88e9-edb7236faf8a
+²typescript:S6606º"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(õ‡—õùÿÿÿÿJ$70700abe-a268-4979-a7a2-8bf0129e1f9f
+­typescript:S6606»"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(Ëˆ»ÚJ$3c04d141-d2ff-47a4-a368-6abf7cfc2c51
+²typescript:S6606¼"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(õ†¼şÿÿÿÿJ$b1409304-3348-4133-a8cc-00e6f9905196
+­typescript:S6606½"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(í™ğJ$a46e544d-cfd0-4eff-b928-a46818c759d9
+­typescript:S6606½"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(í™ğJ$d09f8f97-8a62-4420-bd10-2a84b1a48b99
+†typescript:S6644õ">Unnecessary use of boolean literals in conditional expression.(§æØ’ÿÿÿÿÿJ$af9a57f8-1464-4f75-8eb2-27a938b3070b

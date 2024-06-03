@@ -1,0 +1,8 @@
+
+qtypescript:S101"QRename interface "propsData" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å•˙ˇ¸ˇˇˇˇ
+utypescript:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ëÆ•£ˇˇˇˇˇ
+Ztypescript:S1854#">Remove this useless assignment to variable "typeFoodEntityId".(›Ú®Î
+‚typescript:S6851Y"≈Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don\u8217t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop.(∆ú¢√
+`typescript:S3358t"DExtract this nested ternary operation into an independent statement.(ı‰»‘
+]typescript:S6644"AUnnecessary use of conditional expression for default assignment.(§Õ†“
+atypescript:S3358ü"DExtract this nested ternary operation into an independent statement.(ı‰»‘

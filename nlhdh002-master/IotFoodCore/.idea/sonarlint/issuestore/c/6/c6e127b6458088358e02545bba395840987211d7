@@ -1,0 +1,5 @@
+
+Gtypescript:S1128"+Remove this unused import of 'handlePrice'.(¨úóÇ
+@typescript:S6479¯"Do not use Array index in keys(¸Ûõ°ûÿÿÿÿ
+åtypescript:S6848Ÿ"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(¯ƒúÁøÿÿÿÿ
+typescript:S1082Ÿ"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(¯ƒúÁøÿÿÿÿ

@@ -1,0 +1,17 @@
+
+?typescript:S1128"#Remove this unused import of 'Aod'.(Ãòâ†
+?typescript:S6479&"Do not use Array index in keys(Ê¹¹óşÿÿÿÿ
+?typescript:S6479@"Do not use Array index in keys(Ê¹¹óşÿÿÿÿ
+ptypescript:S3776q"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(†÷¢¿
+åtypescript:S6848´"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(¯ƒúÁøÿÿÿÿ
+typescript:S1082´"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(¯ƒúÁøÿÿÿÿ
+otypescript:S6847¤"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(Å¬÷
+|typescript:S1082¤"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(Å¬÷
+otypescript:S6847Ï"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(Å¬÷
+|typescript:S1082Ï"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(Å¬÷
+gtypescript:S905à"FExpected an assignment or function call and instead saw an expression.(ô„ÍÕûÿÿÿÿ
+qtypescript:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(†÷¢¿
+‡typescript:S6606ş"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(·Ò¸·
+otypescript:S6847É"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(Å¬÷
+|typescript:S1082É"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(Å¬÷
+Jtypescript:S6759ì"-Mark the props of the component as read-only.(“†ÎÖ

@@ -1,0 +1,60 @@
+.container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 2em; /* Kích thước chữ lớn hơn */
+    font-weight: bold; /* Chữ đậm */
+    text-transform: uppercase; /* Chữ in hoa */
+    border-bottom: 2px solid #ddd; /* Đường viền dưới */
+    padding-bottom: 10px; /* Khoảng cách dưới tiêu đề */
+}
+
+.table-container {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: bold;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+.img {
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+
+.img:hover {
+    transform: scale(1.2);
+}
+
+.loading, .error {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    padding: 20px;
+}

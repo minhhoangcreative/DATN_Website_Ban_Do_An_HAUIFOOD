@@ -1,0 +1,13 @@
+
+–typescript:S3776"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(ÒÚ¹ÒJ$6409b39f-379e-46b3-a313-888862cb3044
+otypescript:S6759"-Mark the props of the component as read-only.(ÒÚ¹ÒJ$73279caa-0678-4607-8def-06c96fc76599
+…typescript:S66441">Unnecessary use of boolean literals in conditional expression.(æÕ…­ùÿÿÿÿJ$46bafd09-73a4-4ea4-b532-78aa49a19e8f
+…typescript:S66442">Unnecessary use of boolean literals in conditional expression.(÷ÊôÓûÿÿÿÿJ$5ca5e7eb-242b-46fd-89d6-8943f5792874
+†typescript:S3358a"DExtract this nested ternary operation into an independent statement.(›È¼J$de2b3630-1f6c-4001-b502-fe34ddfebf49
+†typescript:S3358c"DExtract this nested ternary operation into an independent statement.(Ø„€­J$ceaef3b3-a71f-4282-a631-a2b207ea48c0
+‡typescript:S3358‡"DExtract this nested ternary operation into an independent statement.(›ÀÖşJ$7911614e-d50f-4342-9f00-611802f0591b
+‡typescript:S3358"DExtract this nested ternary operation into an independent statement.(›ÀÖşJ$0e60737d-d9ad-4b0e-b580-72fbb43fc322
+Œtypescript:S3358›"DExtract this nested ternary operation into an independent statement.(ÕÇÄ÷úÿÿÿÿJ$098b27e6-9c05-44a8-93d5-9becfa31abca
+ttypescript:S6749¡",A fragment with only one child is redundant.(™åÑğüÿÿÿÿJ$99427c6f-9957-4ed6-ad67-f7b68d2f3637
+‡typescript:S3358ª"DExtract this nested ternary operation into an independent statement.(›ÀÖşJ$7b826629-ec28-45f0-b8f4-bd73c19872dd
+ttypescript:S6749é",A fragment with only one child is redundant.(™åÑğüÿÿÿÿJ$eb7840f7-c7c5-46fd-8318-4d12fcd0135c

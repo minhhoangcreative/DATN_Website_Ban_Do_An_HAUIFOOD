@@ -1,0 +1,6 @@
+
+Ltypescript:S1128"0Remove this unused import of 'isTimeDGTOneHour'.(×ÆÈÖ
+Stypescript:S1854
+"2Remove this useless assignment to variable "time".(Ë©©êûÿÿÿÿ
+Ztypescript:S1854"9Remove this useless assignment to variable "timeDeliver".(¢Ó·Êşÿÿÿÿ
+;typescript:S6509("Redundant double negation.(Ô¢¤şÿÿÿÿ
